@@ -1,2 +1,2 @@
 # U-NET
-Este repositório contém a U-Net, uma CNN eficaz na segmentação de vasos sanguíneos em imagens médicas. Configurada para extrair a morfologia vascular com precisão, é uma ferramenta valiosa para análises médicas avançadas.
+Este repositório é dedicado à implementação e aplicação da arquitetura de rede neural convolucional U-Net para a tarefa específica de segmentação de vasos sanguíneos em imagens médicas. A U-Net é conhecida por sua eficácia em tarefas de segmentação, e neste contexto, ela foi configurada e treinada para extrair com precisão a morfologia dos vasos em diferentes tipos de imagens, proporcionando uma valiosa ferramenta para análises médicas avançadas.
